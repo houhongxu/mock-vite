@@ -1,0 +1,10 @@
+{
+  "name": "examples",
+  "description": "examples",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "workspace:*"
+  }
+}
